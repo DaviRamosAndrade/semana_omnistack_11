@@ -21,7 +21,7 @@ export default StyleSheet.create({
     },
 
     headerTextBold: {
-        fontWeight: 700,
+        fontWeight: "bold",
     },
 
     title: {
@@ -29,7 +29,7 @@ export default StyleSheet.create({
         color: "#171717",
         marginBottom: 16,
         marginTop: 48,
-        fontWeight: 700
+        fontWeight: "bold"
     },
 
     description: {
@@ -52,7 +52,7 @@ export default StyleSheet.create({
     incidentProperty: {
         fontSize: 14,
         color: "#41414d",
-        fontWeight: 700,
+        fontWeight: "bold"
     },
 
     incidentValue: {
@@ -71,6 +71,6 @@ export default StyleSheet.create({
     detailsButtonText: {
         color: "#e02041",
         fontSize: 14,
-        fontWeight: 500
+        fontWeight: "500"
     },
 });
