@@ -2,7 +2,7 @@
 	Semana OmniStack 11.0
 </h1>
 <div align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src=".githubimg/index.svg" width="200px" />
+    <img alt="BeTheHero" title="#BeTheHero" src="./githubimg/index.svg" width="200px" />
 </div>
 
 <p align="center">
@@ -25,7 +25,7 @@
 Be The Hero is a project that aims to connect people who are willing to help ONGs.
 
 <h1 align="center">
-    <img alt="Login-Page" title="Login-Page" src=".githubimg/preview.jpg" width="500px" />
+    <img alt="Login-Page" title="Login-Page" src="./githubimg/preview.jpg" width="500px" />
 </h1>
 
 
