@@ -6,11 +6,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daviramosandrade/">
-    <img alt="Made by Davi Ramos" src="https://img.shields.io/badge/made%20by-DanielObara-%2304D361">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
   
   <a href="https://insomnia.rest/run/?label=SemanaOmnistack11&uri=https%3A%2F%2Fraw.githubusercontent.com%2FDanielObara%2FSemanaOmnistack11%2Fmaster%2FInsomnia_2020-03-24.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
