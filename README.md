@@ -48,8 +48,6 @@ This project was developed with the following technologies:
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] installed on your computer.
 
-From your command line:
-
 ### Install API
 ```bash
 # Clone this repository
