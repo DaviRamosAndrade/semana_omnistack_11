@@ -33,7 +33,6 @@ export default function Resgister() {
         } catch (err) {
             alert('Erro ao cadastrar, tente novamente.', err);
         }
-
     }
 
     return (

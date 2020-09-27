@@ -53,8 +53,7 @@ export default function Profile() {
     return (
         <div className="profile-container">
             <header>
-                <img src={ logoImg } alt="Be The Hero"/>
-                <span>Bem-vindo, { ongName } </span>
+                <img src={ logoImg } alt="SakaVault"/>
 
                 <Link className="button" to="/incidents/new">
                     Cadastrar novo cadastro
